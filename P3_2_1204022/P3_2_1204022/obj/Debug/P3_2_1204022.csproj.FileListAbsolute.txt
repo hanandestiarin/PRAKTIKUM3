@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2015\Projects\P3_2_1204022\P3_2_1204022\bin\Debug\P3_2_1204022.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\P3_2_1204022\P3_2_1204022\obj\Debug\P3_2_1204022.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\P3_2_1204022\P3_2_1204022\obj\Debug\P3_2_1204022.Child_Form.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\P3_2_1204022\P3_2_1204022\obj\Debug\P3_2_1204022.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\P3_2_1204022\P3_2_1204022\obj\Debug\P3_2_1204022.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\P3_2_1204022\P3_2_1204022\obj\Debug\P3_2_1204022.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\P3_2_1204022\P3_2_1204022\bin\Debug\P3_2_1204022.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\P3_2_1204022\P3_2_1204022\bin\Debug\P3_2_1204022.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\P3_2_1204022\P3_2_1204022\obj\Debug\P3_2_1204022.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\P3_2_1204022\P3_2_1204022\obj\Debug\P3_2_1204022.pdb
